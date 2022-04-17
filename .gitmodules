@@ -1,0 +1,3 @@
+[submodule "resources/modded_vehicles"]
+	path = resources/modded_vehicles
+	url = git@github.com:SunFiveRoleplay/modded_vehicles.git
