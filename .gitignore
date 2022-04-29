@@ -2,3 +2,10 @@
 *.bkp
 /db
 *.log
+
+# FiveM server build files
+/*.dll
+/*.exe
+citizen/
+icudtl.dat
+components.json
